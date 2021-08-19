@@ -1,0 +1,1 @@
+from .PostFetcher import fetchPost
